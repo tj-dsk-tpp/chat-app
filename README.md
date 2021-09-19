@@ -6,7 +6,9 @@ This is a realtime chat app using node.js, express.js.
 
 You will need to install the following packages before running this.
 
-    Node.js
+```
+Node.js LTS
+```
 
 ## Installation
 
@@ -20,14 +22,13 @@ $ npm install
 
 This project uses the following dependencies
 
--   `Express`
--   `Moment`
--   `Socket.io`
--   `Qurey Selector`
+-   `express: ^4.17.1`
+-   `moment: ^2.29.1`
+-   `socket.io: ^4.2.0`
 
 Dev-dependencies
 
--   `Nodemon`
+-   `nodemon: ^2.0.12`
 
 These will be installed as you run **`$ npm install`**
 
